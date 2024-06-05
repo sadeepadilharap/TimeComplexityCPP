@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/dev/projects/TimeComplexityCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\TimeComp.dir\\main.cpp.obj -c E:\\dev\\projects\\TimeComplexityCPP\\main.cpp",
+  "file": "E:/dev/projects/TimeComplexityCPP/main.cpp",
+  "output": "CMakeFiles/TimeComp.dir/main.cpp.obj"
+}
+]
